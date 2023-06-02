@@ -160,9 +160,11 @@ a {
   text-decoration: none;
 }
 
-
+nav ul li:hover {
+  color: rgba(255, 63, 102, 255);
+}
 /* 
-  main part 
+  main part
 */
 
 .landing {
