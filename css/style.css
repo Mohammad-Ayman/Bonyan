@@ -160,7 +160,12 @@ a {
   text-decoration: none;
 }
 
-/* main part */
+nav ul li:hover {
+  color: rgba(255, 63, 102, 255);
+}
+/* 
+  main part
+*/
 
 .landing {
   margin-top: 8vh;
