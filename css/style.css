@@ -159,6 +159,13 @@ a {
   padding: 1rem 1.5rem;
   text-decoration: none;
 }
+.get-started:hover {
+  color: rgba(255, 63, 102, 255);
+  background-color: #fff;
+  /* border-radius: 2rem;
+  padding: 1rem 1.5rem;
+  text-decoration: none; */
+}
 
 nav ul li:hover {
   color: rgba(255, 63, 102, 255);
