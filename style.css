@@ -61,7 +61,7 @@ Medium: 11px
   padding: 0;
   box-sizing: border-box;
 }
- img {
+img {
   max-width: 100%;
 }
 li {
@@ -70,8 +70,8 @@ li {
 body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
-   height: 150vh; 
-} 
+  height: 150vh;
+}
 .flex {
   display: flex;
   align-items: center;
@@ -155,6 +155,9 @@ a {
   border-radius: 20px;
   padding: 10px 15px;
   text-decoration: none;
+}
+nav ul li:hover {
+  color: rgba(255, 63, 102, 255);
 }
 
 /* main part */
